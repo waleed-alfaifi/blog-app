@@ -1,0 +1,13 @@
+p {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  /* white-space: pre-line; */
+}
+
+.clickable:hover {
+  cursor: pointer;
+}
+
+.comment-author-name {
+  background-color: lightgrey;
+}
